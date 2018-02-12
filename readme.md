@@ -2,4 +2,4 @@
 
 Dit is de repo voor de site over GErrit en Sponge
 
-blub blub
+blub blub ik ben een vis
